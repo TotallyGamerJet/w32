@@ -7,8 +7,7 @@ It wraps win32 apis to "Go style" to make them easier to use.
 
 ## Notes 
 
-This is a fork of [JamesHovious/w32](https://github.com/JamesHovious/w32) which hasn't been maintained and used CGO. This library doesn't use CGO aims to mirror the win32 api 
-and other Windows system dlls, without additional abstractions built on top of it. It attempts to be as organized/documented as possible. 
+This is a fork of [JamesHovious/w32](https://github.com/JamesHovious/w32) which hasn't been maintained and used CGO. This library doesn't use CGO and aims to mirror the win32 api and other Windows system dlls, without additional abstractions built on top of it. It attempts to be as organized/documented as possible. 
 
 This mirror has some of my own additions plus updates from other forks of the original project. I've attempted 
 to document where I've pulled code from someone else. 
