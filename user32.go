@@ -4,7 +4,6 @@
 
 package w32
 
-//import "C"
 import (
 	// #include <wtypes.h>
 	// #include <winable.h>
