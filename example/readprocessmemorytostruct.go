@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/TotallyGamerJet/w32"
+	"github.com/totallygamerjet/w32"
 	"strings"
 	"time"
 	"unsafe"
