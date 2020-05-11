@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/TotallyGamerJet/w32"
+	"github.com/totallygamerjet/w32"
 )
 
 // metasploit spawn notepad for x64

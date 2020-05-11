@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/TotallyGamerJet/w32"
+	"github.com/totallygamerjet/w32"
 	"golang.org/x/sys/windows"
 	"unsafe"
 )

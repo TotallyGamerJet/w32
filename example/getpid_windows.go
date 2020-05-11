@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/TotallyGamerJet/w32"
+	"github.com/totallygamerjet/w32"
 )
 
 func main() {

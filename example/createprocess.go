@@ -3,7 +3,7 @@ package main
 import (
 	"syscall"
 
-	"github.com/TotallyGamerJet/w32"
+	"github.com/totallygamerjet/w32"
 )
 
 func main() {
