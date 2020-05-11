@@ -1,4 +1,4 @@
-module github.com/TotallyGamerJet/w32
+module github.com/totallygamerjet/w32
 
 go 1.14
 
